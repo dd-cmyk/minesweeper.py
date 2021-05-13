@@ -1,3 +1,3 @@
 # PySaper
-Python saper, made fast, isn't good
-Written in python and livewires
+Python implementation of the game Minesweeper.  
+This game barely works, yet you can play it.
