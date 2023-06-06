@@ -1,4 +1,4 @@
-# PySaper
+# minesweeper.py
 This is the game minesweeper written in python.  
 For running the script yourself, you need superwires package.  
 To install the dependency type in your python: ```pip install superwires```.  
